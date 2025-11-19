@@ -80,7 +80,7 @@ namespace WinFormsApp1
             CrearInterfaz();
         }
 
-        // ESTE MÉTODO ES NECESARIO PARA QUE EL FORMULARIO CARGUE SIN ERROR
+  
         private void Form1_Load(object sender, EventArgs e)
         {
             // Mensaje para verificar que funciona
